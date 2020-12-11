@@ -1,6 +1,7 @@
 #include "pair.h"
 #include "min_bucket.h"
 #include <iostream>
+#include <string>
 
 int main()
 {
